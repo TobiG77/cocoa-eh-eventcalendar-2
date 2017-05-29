@@ -1,0 +1,17 @@
+name = "Cocoa-EH-EventCalendar2"
+license = "MIT"
+licenselink = "https://github.com/fuegowolf/cocoa-eh-hugo-theme/blob/master/LICENSE.md"
+description = "Simple & Clean EventCalendar based on Cocoa-EH."
+homepage = "https://github.com/tobig77/cocoa-eh-hugo-eventcalendar2"
+tags = ["clean", "fast", "responsive", "typography"]
+features = ["flexible", "fast", "highlights", "progressive images", "disqus"]
+min_version = 0.20.2
+
+[author]
+    name = "Tobias Gerschner"
+    homepage = "https://github.com/tobig77"
+
+[original]
+    name = "Alexis Tacnet"
+    homepage = "https://github.com/fuegowolf"
+    repo = "https://github.com/fuegowolf/cocoa-eh-hugo-theme"
